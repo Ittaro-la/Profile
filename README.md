@@ -1,24 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vito Orlando Aroditya</h1>
-<p align="center">
-  <b>Software & Game Development Student | IoT & Software Developer</b>
-</p>
+# Hi there, I'm Vito Orlando Aroditya 👋
 
-<p align="center">
-  <a href="https://instagram.com/ittaro.0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://tiktok.com/@ittaro.la"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-</p>
+🎓 **Vocational High School Student** specializing in **Software & Game Development** (*Pengembangan Perangkat Lunak dan Gim*).  
+💻 Passionate about **Software Engineering, Web Development, Android (Java)**, and **IoT / Embedded Systems (ESP32)**.
 
 ---
 
-### 🚀 About Me
-- 🏫 Studying **Software and Game Development** (*PPLG*).
-- 💡 Interested in **Android Development (Java)**, **Web Development**, and **IoT Projects (ESP32 / Embedded Systems)**.
-- 🎯 Constantly building practical software and hardware integration projects.
+### 🏆 Achievements & Milestones
+- **1st Place** – Lomba Keterampilan Siswa (LKS) Tingkat Kota (IT Software Solutions for Business)
+- **6th Place / Medallion for Excellence** – Lomba Keterampilan Siswa (LKS) Tingkat Provinsi Jawa Tengah 
+- **Participant** – Samsung Solve for Tomorrow
+- **Graduate** – Samsung Innovation Campus Batch 7 (Stage 1: Python Programming & Stage 2: IoT Device and Hardware Discovery)
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+---
+
+### 🛠️ Tech Stack & Skills
+- **Programming Languages:** C++, Java, PHP, Python, JavaScript, HTML, CSS
+- **Frameworks & Tools:** PlatformIO, Wokwi, Android Studio, Firebase, MySQL
+- **Hardware & IoT:** ESP32, OLED SSD1306, Sensors & Actuators
+
+---
+
+### 🌐 Connect with Me
+- 📸 **Instagram:** [@ittaro.0](https://instagram.com/ittaro.0)
+- 🎵 **TikTok:** [@ittaro.la](https://tiktok.com/@ittaro.la)
+
+---
+*✨ Always learning, building, and exploring new technologies!*
