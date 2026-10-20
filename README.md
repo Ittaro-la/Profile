@@ -25,4 +25,3 @@
 - 🎵 **TikTok:** [@ittaro.la](https://tiktok.com/@ittaro.la)
 
 ---
-*✨ Always learning, building, and exploring new technologies!*
